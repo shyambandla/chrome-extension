@@ -1,0 +1,26 @@
+html,
+body {
+    font-size: 16px;
+}
+
+.container {
+    max-width: 768px;
+}
+
+#save-modal {
+    width: 320px;
+    text-align: center;
+    margin-top: -52px;
+}
+
+#domain-input {
+    position: relative;
+    display: flex;
+}
+
+#domain-input-suffix {
+    margin-bottom: 8px;
+    padding: 10px;
+    background: black;
+    color: white;
+}

@@ -1,0 +1,19 @@
+.speacode-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 10px;
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: center center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.speacode-icon-video {
+    background-image:url('chrome-extension://__MSG_@@extension_id__/assets/img/video.svg');
+}
+
+.speacode-icon-doc {
+    background-image:url('chrome-extension://__MSG_@@extension_id__/assets/img/document.svg');
+}
